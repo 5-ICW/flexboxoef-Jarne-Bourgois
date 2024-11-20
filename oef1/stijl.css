@@ -1,0 +1,21 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    height: 50px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.logo {
+    margin: 10px;
+    color: white;
+}
+.icons {
+    display: flex;
+    
+}
+.icons_tekst {
+    color: white;
+    margin: 10px;
+
+}

@@ -17,11 +17,19 @@ h1 {
 }
 
 .item {
-  /* height: 200px; */
-  /* width: 200px; */
-  /* border: 1px solid yellow; */
-  /* background-color: white; */
+  height: 200px; 
+  width: 200px;
+  border: 1px solid yellow;
+  background-color: white;
   display: flex;
+  cursor:pointer;
+  transition: 2s;
+}
+
+.item:hover{
+  background-color: yellow;
+  color: blue;
+  border-radius: 10 5px;
 }
 
 .extraItem {
