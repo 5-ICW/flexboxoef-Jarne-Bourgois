@@ -1,0 +1,14 @@
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.menu_blokken {
+    margin: 20px;
+    width: 200px;
+    height: 100px;
+    background-color: gray;
+    color: white;
+    align-content: center;
+    justify-content: center;
+}
